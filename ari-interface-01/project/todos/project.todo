@@ -1,13 +1,14 @@
 Project:
     
-    System based on Asterisk, SIP Peers (hardware/software) and embedded devices.
+    ☐ Asterisk based System, SIP Peers (hardware/software) and embedded devices. @started(24-12-02 08:06)
 
 
 Todos:
         
     New:
         `
-    ☐ Create a ARI user
+    ☐ Setup Asterisk
+    
 
     Done:
     
