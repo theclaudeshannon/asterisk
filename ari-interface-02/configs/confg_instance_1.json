@@ -1,0 +1,12 @@
+{
+    "audioDir": "./audio",
+    "restApiPort": 3001,
+    "chimeFile": "chime_1.mp3",
+    "sipServer": "wss://your.sip.server",
+    "sipUsername": "user1",
+    "sipPassword": "password1",
+    "reconnectInterval": 10
+}
+
+
+  
