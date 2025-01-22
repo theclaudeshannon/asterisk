@@ -10,7 +10,7 @@ const { exec } = require('child_process');
  */
 function insertIntoAstdbDirect(astdbPath, family, key, value) {
   // key, value fields
-  const full_key = '//' + family + '//' + key;
+  const full_key = '/' + family + '/' + key;
 
   const db = new sqlite3.Database(astdbPath, sqlite3.OPEN_READWRITE, (err) => {
     if (err) {
