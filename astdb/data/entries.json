@@ -1,0 +1,53 @@
+[
+    {
+        "family": "aliases",
+        "key": "peers/Z01",
+        "value": "PJSIP/5092&PJSIP/5093"
+    },
+    {
+        "family": "aliases",
+        "key": "peers/Z02",
+        "value": "PJSIP/5094&PJSIP/5095"
+    },
+    {
+        "family": "aliases",
+        "key": "peers/Z03",
+        "value": "PJSIP/5090&PJSIP/5091"
+    },
+    {
+        "family": "aliases",
+        "key": "peers/Z01A",
+        "value": "PJSIP/5092"
+    },
+    {
+        "family": "aliases",
+        "key": "peers/Z01B",
+        "value": "PJSIP/5093"
+    },
+    {
+        "family": "aliases",
+        "key": "peers/Z02A",
+        "value": "PJSIP/5094"
+    },
+    {
+        "family": "aliases",
+        "key": "peers/Z02B",
+        "value": "PJSIP/5095"
+    },
+    {
+        "family": "aliases",
+        "key": "peers/Z03A",
+        "value": "PJSIP/5090"
+    },
+    {
+        "family": "aliases",
+        "key": "peers/Z03B",
+        "value": "PJSIP/5091"
+    },
+    {
+        "family": "aliases",
+        "key": "peers/ALL_ZONES",
+        "value": "Z01&Z02&Z03"
+    }
+]
+
