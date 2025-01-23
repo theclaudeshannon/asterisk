@@ -10,9 +10,11 @@ Todos:
         ☐ Delete register family directly
 
     Done:
-        ☐ Read register inserts from Json file @started(25-01-23 04:34)
-        ☐ Insert register directly in ASTDB @started(25-01-23 04:33)
-        ☐ Insert register using asterisk command line @started(25-01-23 04:33)
+        ✔ Create env file to set database path and running mode @started(25-01-23 04:48) @done(25-01-23 04:48) @lasted(38s)
+        ✔ Read register inserts from Json file @started(25-01-23 04:34) @done(25-01-23 04:48) @lasted(14m35s)
+        ✔ Insert register directly in ASTDB @started(25-01-23 04:33) @done(25-01-23 04:48) @lasted(15m36s)
+        ✔ Insert register using asterisk command line @started(25-01-23 04:33) @done(25-01-23 04:48) @lasted(15m37s)
+
 
     Cancelled:
 
