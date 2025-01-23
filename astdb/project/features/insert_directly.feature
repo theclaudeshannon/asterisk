@@ -13,7 +13,7 @@ Feature: Insert register using sqlite direct access
 
         Then read the input json file
 
-        And access ASTDB database and insert registers based on each json file array items
+        And access ASTDB database and insert registers based on each json file array items.
 
 
 
